@@ -16,3 +16,8 @@ Scala symbol in C#. This library offers persistent, thread-safe, O(1) comparison
 ```text
 > 1658389626
 ```
+
+- `Value`
+```text
+> Hello world!
+```
