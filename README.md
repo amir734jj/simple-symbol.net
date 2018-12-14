@@ -1,6 +1,6 @@
 # simple-symbol.net
 
-Scala symbol in C#. This library offer persistent, thread-safe, O(1) comparison of symbols.
+Scala symbol in C#. This library offers persistent, thread-safe, O(1) comparison of symbols.
 
 - Instantiate
 ```csharp
