@@ -4,20 +4,20 @@ Scala symbol in C#. This library offers persistent, thread-safe, O(1) comparison
 
 - Instantiate
 ```csharp
-> Symbol.Of("Hello world!");
+> var symbol = Symbol.Of("Hello world!");
 ```
 
-- `ToString`
+- `symbol.ToString()`
 ```Hello world!
 > 'Hello world!
 ```
 
-- `GetHashCode` (uses `MD5`)
+- `symbol.GetHashCode()` (uses `MD5`)
 ```text
 > 1658389626
 ```
 
-- `Value`
+- `symbol.Value`
 ```text
 > Hello world!
 ```
