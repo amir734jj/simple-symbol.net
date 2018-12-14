@@ -1,0 +1,1 @@
+simple-symbol.net
